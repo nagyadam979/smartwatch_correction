@@ -1,0 +1,16 @@
+__pycache__/
+results/
+.DS_Store
+.vendor/
+.claude/
+archive/
+# Helyi nyers mérések és generált kimenetek (dátumozott session-mappák)
+/[0-9][0-9]_[0-9][0-9]/
+*.bdf
+*.zip
+*.fit
+*.gpx
+*.parquet
+*.csv
+*.png
+Gadgetbridge*
